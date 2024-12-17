@@ -1,0 +1,26 @@
+.heading{
+    font-weight: bold;
+    text-align: center;
+    color: rgb(255, 58, 74);
+
+}
+
+.bg{
+    background-color: rgba(34, 250, 200, 0.537);
+    padding: 30px;
+}
+
+.btn-align{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.btns{
+    background-color: rgb(255, 58, 74);
+    border: none !important;
+    border-radius: 5px;
+    padding: 2px 12px;
+    color: #ffffff;
+    font-weight: bold;
+}

@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\100439\\Desktop\\DOT NET COURSE\\PROJECT\\backend\\foodRecipe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31EED865-C9C9-4460-8F87-457FC3813920}|foodRecipe\\foodRecipe.csproj|c:\\users\\100439\\desktop\\dot net course\\project\\backend\\foodrecipe\\foodrecipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EED865-C9C9-4460-8F87-457FC3813920}|foodRecipe\\foodRecipe.csproj|solutionrelative:foodrecipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EED865-C9C9-4460-8F87-457FC3813920}|foodRecipe\\foodRecipe.csproj|c:\\users\\100439\\desktop\\dot net course\\project\\backend\\foodrecipe\\foodrecipe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EED865-C9C9-4460-8F87-457FC3813920}|foodRecipe\\foodRecipe.csproj|solutionrelative:foodrecipe\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31EED865-C9C9-4460-8F87-457FC3813920}|foodRecipe\\foodRecipe.csproj|c:\\users\\100439\\desktop\\dot net course\\project\\backend\\foodrecipe\\foodrecipe\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31EED865-C9C9-4460-8F87-457FC3813920}|foodRecipe\\foodRecipe.csproj|solutionrelative:foodrecipe\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\100439\\Desktop\\DOT NET COURSE\\PROJECT\\backend\\foodRecipe\\foodRecipe\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "foodRecipe\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\100439\\Desktop\\DOT NET COURSE\\PROJECT\\backend\\foodRecipe\\foodRecipe\\ApplicationDbContext.cs",
+              "RelativeToolTip": "foodRecipe\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T06:55:18.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\100439\\Desktop\\DOT NET COURSE\\PROJECT\\backend\\foodRecipe\\foodRecipe\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "foodRecipe\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\100439\\Desktop\\DOT NET COURSE\\PROJECT\\backend\\foodRecipe\\foodRecipe\\Controllers\\UserController.cs",
+              "RelativeToolTip": "foodRecipe\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:00:03.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\100439\\Desktop\\DOT NET COURSE\\PROJECT\\backend\\foodRecipe\\foodRecipe\\Program.cs",
+              "RelativeDocumentMoniker": "foodRecipe\\Program.cs",
+              "ToolTip": "C:\\Users\\100439\\Desktop\\DOT NET COURSE\\PROJECT\\backend\\foodRecipe\\foodRecipe\\Program.cs",
+              "RelativeToolTip": "foodRecipe\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T05:01:03.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
